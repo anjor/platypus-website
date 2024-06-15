@@ -2,6 +2,7 @@
 
 Platypus Technologies is a software consultancy company based in London, UK with over a decade of experience. We provide custom software development services to small and large companies.
 
+
 ## Who?
 
 Anjor is an independent software consultant with 15+ years of experience. 
