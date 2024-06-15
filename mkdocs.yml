@@ -1,0 +1,15 @@
+site_name: Platypus Technologies
+site_url: https://platypustech.xyz
+theme:
+  name: material
+  palette:
+    - scheme: default 
+      primary: blue grey 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
