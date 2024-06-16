@@ -7,7 +7,7 @@ Platypus Technologies is a software consultancy company based in London, UK with
 
 Anjor is an independent software consultant with 15+ years of experience. 
 
-Most recently he was the Head of Applied AI at Radiant AI, a bay area startup helping enterprises deploy generative AI applications into production. Before that he spent 2 years at Protocol Labs as an Engineering Manager, where he worked with prominent clients such as Internet Archive and Solana to onboard important data to [Filecoin](https://filecoin.io/).
+Most recently he was the Head of Applied AI at Radiant AI, a bay area startup helping enterprises deploy generative AI applications into production. Before that he spent 2 years at Protocol Labs as an Engineering Manager, where he worked with prominent clients such as [Internet Archive](https://archive.org/) and Solana to onboard important data to [Filecoin](https://filecoin.io/).
 
 Prior to joining Protocol Labs, Anjor spent 7 years at [Palantir Technologies](https://www.palantir.com/) as a Forward Deployed Engineer. During this time he led large commercial engagements building critical operational use cases on top of Palantir's Foundry platform. He also spent a couple of years during this time as a core Software Engineer helping develop the platform itself.
 
