@@ -18,6 +18,9 @@ theme:
 plugins:
   - social
 extra:
+  analytics:
+    provider: google
+    property: G-Z7K31HEL6Z
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/__anjor
