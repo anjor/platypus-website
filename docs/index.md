@@ -10,9 +10,9 @@ Platypus Technologies is a London-based software consultancy company with over a
 At Platypus Technologies, we offer a wide range of services tailored to meet your unique business needs:
 
 - **Generative AI Applications**: Leverage the power of generative AI to create innovative solutions and enhance your products and services.
-- **Palantir Foundry Consulting**: Unlock the full potential of [Palantir Foundry](https://www.palantir.com/platforms/foundry/) with our expert guidance and implementation services.
 - **Technical/Behavioural Interviewing**: We help early-stage companies and scale-ups recruit top-notch software engineers specialised in delivering high-quality solutions.
 - **Blockchain Application Development**: Stay ahead of the curve with our cutting-edge blockchain solutions, designed to revolutionise your business processes.
+- **Palantir Foundry Consulting**: Unlock the full potential of [Palantir Foundry](https://www.palantir.com/platforms/foundry/) with our expert guidance and implementation services.
 - **Computational Physics**: Benefit from our expertise in computational physics to solve complex problems and drive innovation in your field.
 
 
