@@ -1,14 +1,28 @@
 # Team
 
 ## Anjor Kanekar
-> Director, Platypus Technologies
+**Founder**
 
-Anjor has more than 15 years of experience in the industry. His expertise spans across various domains, including:
+Anjor spent 7 years at Palantir as a Forward Deployed Engineer and hiring manager, conducting 600+ technical interviews and training hundreds of interviewers. He ran FDE hiring for commercial and UK businesses, building the systems that identified exceptional engineers at scale.
 
-- **Generative AI**: As the former Head of Applied AI at Radiant AI, Anjor helped enterprises deploy generative AI applications into production.
-- **Enterprise Software**: Anjor spent 7 years at [Palantir Technologies](https://www.palantir.com/) as a Forward Deployed Engineer, leading large commercial engagements and developing the Foundry platform.
-- **Hiring**: As a hiring manager at Palantir, Anjor conducted more than 700 interviews, honing his expertise in identifying top talent for high-growth environments.
-- **Decentralised Storage**: During his tenure at Protocol Labs, Anjor worked with prominent clients such as [Internet Archive](https://archive.org/) and Solana to onboard critical data to [Filecoin](https://filecoin.io/).
-- **Computational Physics**: Anjor holds a PhD in Plasma Turbulence from the University of Maryland, during which he worked with [Bill Dorland](https://sites.google.com/view/bdorland/) and [Alex Schekochihin](https://www-thphys.physics.ox.ac.uk).
+Before founding Platypus, Anjor led engineering teams at Protocol Labs (onboarding 2+ petabytes to Filecoin) and served as Head of Applied AI Research at Radiant AI.
 
-To learn more about Anjor's background and expertise, visit his personal website [here](https://anjor.xyz/).
+He holds a PhD in Computational Physics from the University of Maryland and remains an active researcher—currently rebuilding gyrokinetics simulations using AI-assisted development.
+
+**LinkedIn:** [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)  
+**GitHub:** [github.com/anjor](https://github.com/anjor)  
+**Writing:** [anjor.xyz/writing](https://anjor.xyz/writing)
+
+---
+
+## Our Bench
+
+For Interviewing as a Service and larger engagements, we work with a carefully curated bench of senior engineers, all trained in Palantir-style interviewing:
+
+- **Ex-Palantir FDEs** with 5+ years of technical interviewing experience
+- **Ex-Google/Amazon engineers** with hiring manager experience
+- **Domain specialists** for specific technical areas
+
+All bench members are calibrated to our standards and provide structured, detailed candidate assessments.
+
+Interested in joining our bench? [Get in touch](mailto:work@platypustech.xyz).

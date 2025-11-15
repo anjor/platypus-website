@@ -1,35 +1,106 @@
-# Welcome!
+# Build Elite Technical Organizations
 
-Platypus Technologies is a London-based software consultancy company with over a decade of experience in delivering cutting-edge solutions. We specialise in providing bespoke software development services to businesses of all sizes, from startups to large enterprises.
+Platypus partners with ambitious companies to solve the hard problems of building technical teams that ship.
 
+Whether you need to design a hiring system, structure your engineering org, navigate strategic technical decisions, or have someone who can actually build—we've done it at scale.
 
+**Founded by Palantir veterans.** 7 years running Forward Deployed Engineering. 600+ technical interviews. Hands-on keyboard when it matters.
 
+> *Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) on building Forward Deployed Engineering organizations*
 
-## Services
+---
 
-At Platypus Technologies, we offer a wide range of services tailored to meet your unique business needs:
+## Strategic Partnership
 
-- **Generative AI Applications**: Leverage the power of generative AI to create innovative solutions and enhance your products and services.
-- **Technical/Behavioural Interviewing**: We help early-stage companies and scale-ups recruit top-notch software engineers specialised in delivering high-quality solutions.
-- **Blockchain Application Development**: Stay ahead of the curve with our cutting-edge blockchain solutions, designed to revolutionise your business processes.
-- **Palantir Foundry Consulting**: Unlock the full potential of [Palantir Foundry](https://www.palantir.com/platforms/foundry/) with our expert guidance and implementation services.
-- **Computational Physics**: Benefit from our expertise in computational physics to solve complex problems and drive innovation in your field.
+**FDE Organization Building**  
+Design and implement Palantir-style forward deployed engineering organizations. We help you structure teams around customer outcomes, define operating models, and build the culture of ownership that makes FDEs effective.
 
+**Hiring System Design**  
+End-to-end hiring process design tailored to your company's needs. From defining core traits to building interview kits to training your team. You own the system forever.
 
-## Clients
+- **The Hiring Blueprint** (One-time project): 
+- See our work: [Comand AI case study](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/), [Northslope Technologies case study](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
 
-- [Comand AI](https://www.comand.ai/): Helped Comand AI develop their hiring strategy and build a team of high-agency software and machine learning engineers.
-- [Catena Labs](https://www.catena.xyz/): Helped develop libraries to benchmark and deploy ensembles of large language models.
-- [Metaview](https://metaview.ai): Built a data asset that was then used to fine tune a model and build an application used to generate job descriptions.
-- _Name Redacted_: Redesigned the hiring function for an early stage startup enabling them to hire more effectively.
-- [Radiant AI](https://www.radiantai.com/): Helped Radiant AI design new LLM-based applications to demonstrate their capabilities and drive new business.
-- _Name Redacted_: Our team assisted a startup in the manufacturing sector in building an innovative product using generative AI for customised products. We also supported their recruitment efforts, helping them hire high-agency software engineers specialised in delivery.
-- [Triton](https://triton.one/): We assisted Triton with archiving blockchain data to Filecoin, ensuring secure and decentralised storage for their critical information.
-- [Northslope Technologies](https://www.northslopetech.com/): As a professional services company for Palantir Foundry, we partnered with Northslope Technologies to deliver exceptional results to their clients.
-- [Protocol Labs](https://protocol.ai/): We collaborated with Protocol Labs to build easy-to-use onramps to onboard data to Filecoin.
-- [Hence Technologies](https://hence.ai/): Our team worked with Hence Technologies, a legal tech company, to help enterprises streamline and manage their legal work.
+**Fractional CTO / Technical Advisory**  
+Strategic guidance for technical decisions, architecture choices, and engineering leadership. Especially valuable for teams working with Palantir Foundry or navigating complex technical transformations.
 
+---
 
-## Contact us!
+## Hands-On Delivery
 
-If you would like to discuss a project, or just say hello, please get in touch via [work@platypustech.xyz](mailto:work@platypustech.xyz).
+When strategic advice isn't enough, we build:
+
+- **Generative AI Applications**: LLM-based products, fine-tuning pipelines, evaluation frameworks
+- **Blockchain Development**: Smart contracts, data archival systems, Web3 infrastructure
+- **Palantir Foundry Implementation**: Custom applications, data pipelines, production deployments
+- **Computational Physics**: Simulation development, numerical methods, scientific computing
+
+Recent work: [Rebuilding gyrokinetics simulations with AI](https://anjor.xyz/writing/2025/11/05/testing-the-intelligence-explosion-can-ai-turn-one-physicist-into-a-research-team/)—testing intelligence explosion through active research.
+
+---
+
+## Interviewing as a Service
+
+On-demand expert interview capacity to scale your hiring without draining your engineers.
+
+**What's included:**
+- Technical and behavioral interviews conducted by our Palantir/Google-trained team
+- Detailed candidate reports with clear hire/no-hire recommendations
+- 24-hour turnaround
+
+---
+
+## Why These Services Together?
+
+Building great technical organizations requires three things:
+
+1. **The right people** — Elite hiring systems that actually work
+2. **The right structure** — Organizations that align around outcomes, not org charts
+3. **Technical credibility** — Leaders who can still code, still architect, still debug production
+
+Most consultancies offer one. Almost none understand all three. We've lived it at Palantir, Protocol Labs, and our own ventures.
+
+We're not ex-engineers advising from the sidelines. We're current practitioners who understand organizational design.
+
+---
+
+## Selected Clients
+
+**[Comand AI](https://www.comand.ai/)**: Designed hiring process for mission-driven engineers, combining product sense screening with technical depth. [Read the case study →](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/)
+
+**[Northslope Technologies](https://www.northslopetech.com/)**: Built bespoke framework defining cultural traits vs role competencies, creating interview stages that test for exact traits that matter. [Read the case study →](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
+
+**[Metaview](https://metaview.ai)**: Built data asset for model fine-tuning and automated job description generation.
+
+**[Catena Labs](https://www.catena.xyz/)**: Developed libraries to benchmark and deploy LLM ensembles.
+
+**[Radiant AI](https://www.radiantai.com/)**: Designed LLM-based applications demonstrating governance platform capabilities.
+
+**[Triton](https://triton.one/)**: Architected blockchain data archival system to Filecoin.
+
+**[Protocol Labs](https://protocol.ai/)**: Built onboarding infrastructure for 2+ petabytes of data to Filecoin.
+
+**[Hence Technologies](https://hence.ai/)**: Enterprise legal workflow automation.
+
+*Multiple confidential engagements with early-stage companies on hiring system design and FDE organizational structure.*
+
+---
+
+## Recent Writing
+
+- [The Unreasonable Effectiveness of Hiring Assholes](https://anjor.xyz/writing/2025/11/13/the-unreasonable-effectiveness-of-hiring-assholes/) — Why conviction and ego are separate traits
+- [Building a Gyrokinetics Code Without Reading a Single Line](https://anjor.xyz/writing/2025/11/11/building-a-gyrokinetics-code-without-reading-a-single-line-the-development-log/) — Development log from the AI physics experiment
+- [How One System Design Interview Question Almost Broke Our Hiring Process](https://www.linkedin.com/posts/anjor-kanekar_how-one-system-design-interview-question-activity-7220441287546671104-SBJQ) — When we over-index on the wrong signals
+- [The Hiring Thesis: Palantir's Secret Weapon](https://www.linkedin.com/posts/anjor-kanekar_the-hiring-thesis-palantirs-secret-weapon-activity-7222920147305852928-ucGI) — Making specific bets on every hire
+
+[More on anjor.xyz/writing →](https://anjor.xyz/writing)
+
+---
+
+## Ready to Build Something?
+
+**For hiring & organizational design or technial projects:**  
+Book a consultation:  [work@platypustech.xyz](mailto:work@platypustech.xyz)
+
+**Connect on LinkedIn:**  
+[linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)

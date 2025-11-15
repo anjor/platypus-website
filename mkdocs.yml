@@ -1,31 +1,29 @@
 site_name: Platypus Technologies
-site_author: Anjor Kanekar
-site_url: https://platypustech.xyz
-repo_url: https://github.com/anjor/platypus-website
+site_url: https://platypustech.xyz/
+site_description: Building elite technical organizations. Hiring systems, FDE org design, and hands-on engineering.
+
 theme:
   name: material
   palette:
-    - scheme: default 
-      primary: blue grey 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: blue grey
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-plugins:
-  - social
+    scheme: slate
+  features:
+    - navigation.instant
+    - navigation.tracking
+
+nav:
+  - Home: index.md
+  - Team: team.md
+
+copyright: Copyright &copy; 2024 Anjor Kanekar
+
 extra:
-  analytics:
-    provider: google
-    property: G-PJPYDWZ4Q0
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/__anjor
     - icon: fontawesome/brands/github
       link: https://github.com/anjor
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/anjor-kanekar/
-copyright: Copyright &copy; 2023 Anjor Kanekar
+      link: https://linkedin.com/in/anjor-kanekar
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
