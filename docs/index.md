@@ -64,26 +64,27 @@ We're not ex-engineers advising from the sidelines. We're current practitioners 
 
 ---
 
-## Selected Clients
+## Clients
 
-**[Comand AI](https://www.comand.ai/)**: Designed hiring process for mission-driven engineers, combining product sense screening with technical depth. [Read the case study →](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/)
+### Hiring Systems & FDE Organizations
 
-**[Northslope Technologies](https://www.northslopetech.com/)**: Built bespoke framework defining cultural traits vs role competencies, creating interview stages that test for exact traits that matter. [Read the case study →](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
+* **[Comand AI](https://www.comand.ai/)**: Designed hiring process for mission-driven engineers. [Read case study →](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/)
+* **[Northslope Technologies](https://www.northslopetech.com/)**: Built bespoke hiring framework. [Read case study →](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
+* **[Sparta Commodities](https://www.spartacommodities.com/)**: Interviewing bandwidth and interviewer training
+* **[Prodigal Tech](https://www.prodigaltech.com/)**: FDE organization building
+* **[Fractal Analytics](https://fractal.ai/)**: FDE organizational strategy and advisory
+* **[Object Edge](https://www.objectedge.com/)**: Palantir services wing development—FDE hiring and platform strategy
+* **Confidential clients**: Hiring redesigns for multiple early-stage startups
 
-**[Metaview](https://metaview.ai)**: Built data asset for model fine-tuning and automated job description generation.
+### Technical Delivery
 
-**[Catena Labs](https://www.catena.xyz/)**: Developed libraries to benchmark and deploy LLM ensembles.
-
-**[Radiant AI](https://www.radiantai.com/)**: Designed LLM-based applications demonstrating governance platform capabilities.
-
-**[Triton](https://triton.one/)**: Architected blockchain data archival system to Filecoin.
-
-**[Protocol Labs](https://protocol.ai/)**: Built onboarding infrastructure for 2+ petabytes of data to Filecoin.
-
-**[Hence Technologies](https://hence.ai/)**: Enterprise legal workflow automation.
-
-*Multiple confidential engagements with early-stage companies on hiring system design and FDE organizational structure.*
-
+* **[Metaview](https://metaview.ai)**: LLM fine-tuning and job description generation
+* **[Catena Labs](https://www.catena.xyz/)**: LLM ensemble benchmarking libraries
+* **[Radiant AI](https://www.radiantai.com/)**: LLM application design and development
+* **[Protocol Labs](https://protocol.ai/)**: Data onboarding infrastructure (2+ petabytes to Filecoin)
+* **[Triton](https://triton.one/)**: Blockchain data archival to Filecoin
+* **[Hence Technologies](https://hence.ai/)**: Legal workflow automation
+* **Multiple early-stage startups**: Hands-on MVP development in AI and blockchain
 ---
 
 ## Recent Writing
