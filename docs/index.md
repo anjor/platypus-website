@@ -37,6 +37,7 @@ Recent work: [Rebuilding gyrokinetics simulations with AI](https://anjor.xyz/wri
 On-demand expert interview capacity to scale your hiring without draining your engineers.
 
 **What's included:**
+
 - Technical and behavioral interviews conducted by our Palantir/Google-trained team
 - Detailed candidate reports with clear hire/no-hire recommendations
 - 24-hour turnaround
