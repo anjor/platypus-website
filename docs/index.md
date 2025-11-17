@@ -12,17 +12,10 @@ Whether you need to design a hiring system, structure your engineering org, navi
 
 ## Strategic Partnership
 
-**FDE Organization Building**  
-Design and implement Palantir-style forward deployed engineering organizations. We help you structure teams around customer outcomes, define operating models, and build the culture of ownership that makes FDEs effective.
-
-**Hiring System Design**  
-End-to-end hiring process design tailored to your company's needs. From defining core traits to building interview kits to training your team. You own the system forever.
-
-- **The Hiring Blueprint** (One-time project): 
-- See our work: [Comand AI case study](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/), [Northslope Technologies case study](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
-
-**Fractional CTO / Technical Advisory**  
-Strategic guidance for technical decisions, architecture choices, and engineering leadership. Especially valuable for teams working with Palantir Foundry or navigating complex technical transformations.
+- **FDE Organization Building**: Design and implement Palantir-style forward deployed engineering organizations. We help you structure teams around customer outcomes, define operating models, and build the culture of ownership that makes FDEs effective.
+- **Hiring System Design**: End-to-end hiring process design tailored to your company's needs. From defining core traits to building interview kits to training your team. You own the system forever.
+- **The Hiring Blueprint**: See our work: [Comand AI case study](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/), [Northslope Technologies case study](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
+- **Fractional CTO / Technical Advisory**: Strategic guidance for technical decisions, architecture choices, and engineering leadership. Especially valuable for teams working with Palantir Foundry or navigating complex technical transformations.
 
 ---
 
@@ -31,8 +24,8 @@ Strategic guidance for technical decisions, architecture choices, and engineerin
 When strategic advice isn't enough, we build:
 
 - **Generative AI Applications**: LLM-based products, fine-tuning pipelines, evaluation frameworks
-- **Blockchain Development**: Smart contracts, data archival systems, Web3 infrastructure
 - **Palantir Foundry Implementation**: Custom applications, data pipelines, production deployments
+- **Blockchain Development**: Data archival systems, Web3 infrastructure
 - **Computational Physics**: Simulation development, numerical methods, scientific computing
 
 Recent work: [Rebuilding gyrokinetics simulations with AI](https://anjor.xyz/writing/2025/11/05/testing-the-intelligence-explosion-can-ai-turn-one-physicist-into-a-research-team/)—testing intelligence explosion through active research.
