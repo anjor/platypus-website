@@ -7,7 +7,7 @@ Anjor spent 7 years at Palantir as a Forward Deployed Engineer and hiring manage
 
 Before founding Platypus, Anjor led engineering teams at Protocol Labs (onboarding 2+ petabytes to Filecoin) and served as Head of Applied AI Research at Radiant AI.
 
-He holds a PhD in Computational Physics from the University of Maryland and remains an active researcher—currently rebuilding gyrokinetics simulations using AI-assisted development.
+He holds a PhD in Computational Physics from the University of Maryland and remains an active researcher—recently completing a validated study on AI-assisted development. His research on rebuilding plasma physics simulations with AI demonstrated that AI amplifies expertise rather than replacing it, establishing the "autonomy gradient" framework for understanding AI capabilities.
 
 **LinkedIn:** [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)  
 **GitHub:** [github.com/anjor](https://github.com/anjor)  

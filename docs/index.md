@@ -10,43 +10,139 @@ Whether you need to design a hiring system, structure your engineering org, navi
 
 ---
 
-## Strategic Partnership
+## Hiring & Talent Systems
 
-**FDE Organization Building**  
-Design and implement Palantir-style forward deployed engineering organizations. We help you structure teams around customer outcomes, define operating models, and build the culture of ownership that makes FDEs effective.
+**The Hiring Blueprint**
+> End-to-end hiring process design tailored to your company's needs
 
-**Hiring System Design**  
-End-to-end hiring process design tailored to your company's needs. From defining core traits to building interview kits to training your team. You own the system forever.
-
-- **The Hiring Blueprint** (One-time project): 
-- See our work: [Comand AI case study](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/), [Northslope Technologies case study](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
-
-**Fractional CTO / Technical Advisory**  
-Strategic guidance for technical decisions, architecture choices, and engineering leadership. Especially valuable for teams working with Palantir Foundry or navigating complex technical transformations.
-
----
-
-## Hands-On Delivery
-
-When strategic advice isn't enough, we build:
-
-- **Generative AI Applications**: LLM-based products, fine-tuning pipelines, evaluation frameworks
-- **Blockchain Development**: Smart contracts, data archival systems, Web3 infrastructure
-- **Palantir Foundry Implementation**: Custom applications, data pipelines, production deployments
-- **Computational Physics**: Simulation development, numerical methods, scientific computing
-
-Recent work: [Rebuilding gyrokinetics simulations with AI](https://anjor.xyz/writing/2025/11/05/testing-the-intelligence-explosion-can-ai-turn-one-physicist-into-a-research-team/)—testing intelligence explosion through active research.
-
----
-
-## Interviewing as a Service
-
-On-demand expert interview capacity to scale your hiring without draining your engineers.
+Ideal for early-stage teams (Seed - Series B) who need to build a repeatable hiring process from scratch.
 
 **What's included:**
+
+- Discovery & traits workshop: Define core attributes of success at your company
+- Role definition & job descriptions that actually attract great people
+- End-to-end interview process designed to test for your specific traits
+- Custom interview kits: questions, technical challenges, scorecards
+- Interviewer calibration: hands-on training to align your team
+
+**Case studies:**
+
+- [Comand AI](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/): Designed hiring for mission-driven engineers
+- [Northslope Technologies](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/): Built bespoke framework defining cultural traits vs role competencies
+
+---
+
+**Interviewing as a Service (IaaS)**
+> On-demand expert interview capacity to scale your hiring without draining your engineers
+
+Ideal for teams with an established process who need to increase hiring velocity while maintaining a high bar.
+
+This can also be used to uplevel your interviewer pool.
+
+**What's included:**
+
 - Technical and behavioral interviews conducted by our Palantir/Google-trained team
 - Detailed candidate reports with clear hire/no-hire recommendations
 - 24-hour turnaround
+
+**Why it works:**
+
+- Frees up hundreds of hours of your senior engineers' time
+- Increases signal quality with unbiased, expert assessments
+- Predictable operational expenditure to scale hiring
+
+---
+
+**Embedded Hiring Partner**
+> Strategic partnership to build, lead, and execute your entire technical hiring function
+
+Ideal for well-funded startups building a core team of 5-10+ engineers quickly and correctly, needing senior leadership without the full-time executive cost.
+
+**What's included:**
+
+- Full strategic oversight: Acting as your fractional Head of Talent / VP of Engineering for hiring
+- All services from Hiring Blueprint and IaaS packages
+- Plus: Weekly pipeline reviews, sourcing strategy, offer construction, closing support, onboarding design
+
+---
+
+## FDE & Organizational Strategy
+
+Design and implement Palantir-style FDE organizations from scratch. We help you:
+
+- Structure teams around customer outcomes, not org charts
+- Define the operating model that makes FDEs effective
+- Build the culture of radical ownership
+- Hire and onboard FDEs who can thrive in the model
+
+This is the model that made Palantir successful. We spent 7 years as FDEs and know how to transplant it to other organizations.
+
+**Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)** on Forward Deployed Engineering.
+
+**Case studies:**
+
+- [Prodigal Tech](https://www.prodigaltech.com/): Building their FDE organization from the ground up
+- [Fractal Analytics](https://fractal.ai/): Strategic advisory on FDE organizational design for enterprise AI business
+- [Object Edge](https://www.objectedge.com/): Building Palantir services wing with FDE hiring and strategy
+
+---
+
+## AI Strategy & Adoption
+
+![The Autonomy Gradient](./assets/autonomy-gradient.png){ width="700" }
+
+**AI Implementation Strategy**
+
+Most companies are experimenting with AI without a clear framework for what works. We help you:
+
+- Understand where AI amplifies expertise vs where it fails (the autonomy gradient)
+- Design validation methodologies for AI-generated outputs
+- Build AI-assisted workflows that increase productivity
+- Evaluate AI tools and platforms for your use case
+
+Based on hands-on research: We rebuilt 3,500 lines of physics simulation code in 21 days using AI, documented everything, and published the [findings](https://github.com/anjor/gandalf-paper). We know what AI can and can't do because we've tested the limits.
+
+**Technical Delivery**
+
+When strategy isn't enough, we build:
+
+- LLM applications and fine-tuning pipelines
+- AI evaluation frameworks
+- Proof-of-concept implementations
+
+**Recent work:**
+
+- [Metaview](https://metaview.ai): Built data asset for LLM fine-tuning and automated job description generation
+- [Catena Labs](https://www.catena.xyz/): Developed libraries to benchmark and deploy LLM ensembles
+- [Radiant AI](https://www.radiantai.com/): Designed LLM-based applications demonstrating governance capabilities
+
+---
+
+## Palantir Ecosystem Consulting
+
+**For Companies Using or Considering Palantir**
+
+We help organizations successfully adopt and implement Palantir Foundry:
+
+- Technical strategy and architecture design
+- Custom application development and data pipelines
+- Production deployments and platform implementation
+- Advisory on making Foundry work for your use case
+
+**For Companies Building Palantir Services**
+
+We help SI/consulting firms build their Palantir practice:
+
+- Hiring FDEs who can succeed in Palantir ecosystem
+- Training non-Palantir engineers on Foundry
+- Strategic positioning in Palantir partner ecosystem
+- Technical delivery for Foundry projects
+
+**Recent work:**
+
+- [Object Edge](https://www.objectedge.com/): Building Palantir services wing with FDE hiring and technical strategy
+
+**Also offering:** Fractional CTO services and technical advisory for blockchain development, computational physics, and scientific computing.
 
 ---
 
@@ -89,10 +185,10 @@ We're not ex-engineers advising from the sidelines. We're current practitioners 
 
 ## Recent Writing
 
+- [The Autonomy Gradient](https://anjor.xyz/writing/2025/12/09/the-autonomy-gradient-what-ai-can-and-cant-do-in-physics-research/) — What AI can and can't do in physics research
+- [Physics-Oracle Validation](https://anjor.xyz/writing/2025/12/10/physics-oracle-validation-how-to-trust-code-youve-never-read/) — How to trust code you've never read
+- [Writing a Physics Paper with Claude](https://anjor.xyz/writing/2025/12/01/writing-a-physics-paper-with-claude-practical-experience-and-failures/) — Workflow, iterations, and hallucinations caught in review
 - [The Unreasonable Effectiveness of Hiring Assholes](https://anjor.xyz/writing/2025/11/13/the-unreasonable-effectiveness-of-hiring-assholes/) — Why conviction and ego are separate traits
-- [Building a Gyrokinetics Code Without Reading a Single Line](https://anjor.xyz/writing/2025/11/11/building-a-gyrokinetics-code-without-reading-a-single-line-the-development-log/) — Development log from the AI physics experiment
-- [How One System Design Interview Question Almost Broke Our Hiring Process](https://www.linkedin.com/posts/anjor-kanekar_how-one-system-design-interview-question-activity-7220441287546671104-SBJQ) — When we over-index on the wrong signals
-- [The Hiring Thesis: Palantir's Secret Weapon](https://www.linkedin.com/posts/anjor-kanekar_the-hiring-thesis-palantirs-secret-weapon-activity-7222920147305852928-ucGI) — Making specific bets on every hire
 
 [More on anjor.xyz/writing →](https://anjor.xyz/writing)
 
