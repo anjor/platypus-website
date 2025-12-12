@@ -154,8 +154,6 @@ Building great technical organizations requires three things:
 2. **The right structure** — Organizations that align around outcomes, not org charts
 3. **Technical credibility** — Leaders who can still code, still architect, still debug production
 
-Most consultancies offer one. Almost none understand all three. We've lived it at Palantir, Protocol Labs, and our own ventures.
-
 We're not ex-engineers advising from the sidelines. We're current practitioners who understand organizational design.
 
 ---
