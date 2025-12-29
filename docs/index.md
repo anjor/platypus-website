@@ -194,8 +194,6 @@ We're not ex-engineers advising from the sidelines. We're current practitioners 
 
 ## Ready to Build Something?
 
-**For hiring & organizational design or technial projects:**  
 Book a consultation:  [work@platypustech.xyz](mailto:work@platypustech.xyz)
 
-**Connect on LinkedIn:**  
-[linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)
+Connect on LinkedIn:  [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)
