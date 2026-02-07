@@ -8,7 +8,9 @@ Whether you need to design a hiring system, structure your engineering org, navi
     
     Our work on Forward Deployed Engineering was featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) — the definitive deep-dive on FDE organizations read by 500,000+ engineers.
 
-**Founded by Palantir veterans.** 7 years running Forward Deployed Engineering. 1,000+ technical interviews. Hands-on keyboard when it matters.
+**Founded by Palantir veterans.** 
+
+7 years running Forward Deployed Engineering. 1,000+ technical interviews. Hands-on keyboard when it matters.
 
 ---
 
