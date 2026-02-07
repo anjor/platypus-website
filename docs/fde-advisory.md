@@ -29,7 +29,7 @@ Most FDE programs fail because organizations:
 | **7 years at Palantir** | Ran FDE hiring for commercial and UK operations |
 | **1,000+ technical interviews** | Calibrated evaluation systems at scale |
 | **Featured in The Pragmatic Engineer** | [The definitive article on FDE](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) |
-| **Active FDE advisory clients** | Prodigal, Fractal Analytics, Object Edge |
+| **Active FDE advisory clients** | Currently engaged with multiple enterprise and growth-stage companies |
 | **Open source FDE materials** | [fde-advisory-materials](https://anjor.github.io/fde-advisory-materials/) |
 
 </div>
@@ -96,22 +96,6 @@ For companies making a serious bet on FDE, we embed as your strategic partner:
 - Weekly strategic reviews
 
 **Ideal for:** Well-funded companies building a core FDE team of 5-10+ engineers.
-
----
-
-## Client Results
-
-> *"Anjor helped us build our FDE organization from scratch. His Palantir experience translated directly to practical guidance we could implement immediately."*
-> 
-> — **Prodigal Tech**, FDE organization building
-
-> *"The hiring framework Anjor designed gave us a repeatable process for identifying the right FDE candidates. We went from ad-hoc interviews to a calibrated system."*
-> 
-> — **Object Edge**, Palantir services practice development
-
-> *"Strategic advisory on FDE organizational design helped us structure our enterprise AI business correctly from the start."*
-> 
-> — **Fractal Analytics**, FDE advisory
 
 ---
 
