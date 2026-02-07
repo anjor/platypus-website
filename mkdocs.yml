@@ -12,6 +12,7 @@ theme:
 
 nav:
   - Home: index.md
+  - FDE Advisory: fde-advisory.md
   - Team: team.md
 
 copyright: Copyright &copy; 2024 Anjor Kanekar
@@ -27,3 +28,5 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
+  - pymdownx.details
+  - tables

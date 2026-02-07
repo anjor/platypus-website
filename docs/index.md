@@ -4,9 +4,11 @@ Platypus partners with ambitious companies to solve the hard problems of buildin
 
 Whether you need to design a hiring system, structure your engineering org, navigate strategic technical decisions, or have someone who can actually build—we've done it at scale.
 
-**Founded by Palantir veterans.** 7 years running Forward Deployed Engineering. 600+ technical interviews. Hands-on keyboard when it matters.
+!!! tip "Featured in The Pragmatic Engineer"
+    
+    Our work on Forward Deployed Engineering was featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) — the definitive deep-dive on FDE organizations read by 500,000+ engineers.
 
-> *Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) on building Forward Deployed Engineering organizations*
+**Founded by Palantir veterans.** 7 years running Forward Deployed Engineering. 1,000+ technical interviews. Hands-on keyboard when it matters.
 
 ---
 
@@ -68,6 +70,12 @@ Ideal for well-funded startups building a core team of 5-10+ engineers quickly a
 
 ## FDE & Organizational Strategy
 
+!!! info "Dedicated FDE Advisory Page"
+    
+    **[View our complete FDE advisory offering →](fde-advisory.md)**
+    
+    Includes hiring system design, organizational design, Interviewing as a Service, and free resources.
+
 Design and implement Palantir-style FDE organizations from scratch. We help you:
 
 - Structure teams around customer outcomes, not org charts
@@ -77,7 +85,7 @@ Design and implement Palantir-style FDE organizations from scratch. We help you:
 
 This is the model that made Palantir successful. We spent 7 years as FDEs and know how to transplant it to other organizations.
 
-**Featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers)** on Forward Deployed Engineering.
+**Open-source resources:** [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) — complete documentation site with hiring processes, scorecards, and templates.
 
 **Case studies:**
 
@@ -194,6 +202,12 @@ We're not ex-engineers advising from the sidelines. We're current practitioners 
 
 ## Ready to Build Something?
 
-Book a consultation:  [work@platypustech.xyz](mailto:work@platypustech.xyz)
+Let's talk about what you're trying to build.
 
-Connect on LinkedIn:  [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)
+| | |
+|---|---|
+| **Email** | [work@platypustech.xyz](mailto:work@platypustech.xyz) |
+| **LinkedIn** | [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar) |
+| **Schedule a call** | [cal.com/anjor-kanekar/30min](https://cal.com/anjor-kanekar/30min) |
+
+**Not ready to talk yet?** Check out our [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) or browse [recent writing](https://anjor.xyz/writing).
