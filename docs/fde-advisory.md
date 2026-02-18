@@ -133,5 +133,3 @@ Let's talk about what you're trying to build.
 **Email:** [work@platypustech.xyz](mailto:work@platypustech.xyz)
 
 **LinkedIn:** [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)
-
-**Scheduling:** [Book a call](https://cal.com/anjor-kanekar/30min)

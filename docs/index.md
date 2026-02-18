@@ -210,6 +210,5 @@ Let's talk about what you're trying to build.
 |---|---|
 | **Email** | [work@platypustech.xyz](mailto:work@platypustech.xyz) |
 | **LinkedIn** | [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar) |
-| **Schedule a call** | [cal.com/anjor-kanekar/30min](https://cal.com/anjor-kanekar/30min) |
 
 **Not ready to talk yet?** Check out our [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) or browse [recent writing](https://anjor.xyz/writing).
