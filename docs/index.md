@@ -27,7 +27,7 @@ This is the highest-touch engagement. We take on two to three of these at a time
 - A health-tech startup where we embedded as the first senior technical presence — hiring the founding team, establishing ways of working, and acting as the technical sounding board for a non-technical founder.
 - An early-stage company where we built the MVP as the sole technical resource, developing the product while the founder focused on commercial traction.
 
-**Pricing:** Retainers typically start at £12,000/month. Scoped per engagement.
+**Pricing:** Retainers typically start at £15,000/month. Scoped per engagement.
 
 ---
 
