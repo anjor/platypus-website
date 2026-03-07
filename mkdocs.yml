@@ -5,7 +5,7 @@ site_description: We help technology companies build and run Forward Deployed En
 theme:
   name: material
   palette:
-    scheme: slate
+    scheme: default
   features:
     - navigation.instant
     - navigation.tracking
