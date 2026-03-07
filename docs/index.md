@@ -50,7 +50,7 @@ This is meaningfully different from generic engineering hiring. FDE candidates n
 - [Northslope Technologies](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/): Built bespoke framework defining cultural traits vs role competencies
 - [Prodigal Tech](https://www.prodigaltech.com/): Building their FDE organization from the ground up
 
-**Pricing:** Hiring Blueprint from £10,000–£15,000 (one-time). Interviewing as a Service from £3,000/month.
+**Pricing:** Hiring Blueprint from £10,000–£15,000 (one-time). Interviewing as a Service from £5,000/month.
 
 ---
 
