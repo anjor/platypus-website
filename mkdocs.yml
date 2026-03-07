@@ -1,6 +1,6 @@
 site_name: Platypus Technologies
 site_url: https://platypustech.xyz/
-site_description: Building elite technical organizations. Hiring systems, FDE org design, and hands-on engineering.
+site_description: We help technology companies build and run Forward Deployed Engineering functions.
 
 theme:
   name: material
