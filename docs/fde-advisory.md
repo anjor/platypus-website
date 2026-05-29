@@ -1,6 +1,6 @@
 # FDE Advisory
 
-We run workshops, advisory sessions, and speaking engagements for companies exploring the Forward Deployed Engineering model.
+We run workshops, advisory sessions, and speaking engagements for companies exploring the Forward Deployed Engineering model, and we productize the work of standing up an FDE function through a small set of fixed offerings.
 
 ---
 
@@ -19,6 +19,22 @@ We run workshops, advisory sessions, and speaking engagements for companies expl
 **Hiring Strategy** — Why standard engineering interviews miss FDE-critical traits. How to design processes that test for pain tolerance, ownership mindset, learning velocity, and client-facing capability.
 
 **Organizational Design** — Team structure, performance measurement, FDE-Product interface agreements, and scaling patterns.
+
+---
+
+## How We Engage
+
+All prices exclude VAT.
+
+| Offering | Shape | Price |
+|---|---|---|
+| **Advisory Retainer** | Month-to-month, 3-month minimum. Weekly working call, monthly engineering working session, monthly strategic catch-up, Slack Connect, ad-hoc review. | £12,000 / month |
+| **Operating Model + Hiring System Sprint** | Fixed 3-week engagement producing three written artefacts: Operating Model Blueprint, Hiring Playbook, Positioning Addendum. | £30,000 |
+| **3-Month Engagement** | The Sprint, then a 9-week embedded phase: weekly working calls, account shadowing, capped engineering coaching 1:1s, monthly leadership sync. | £75,000 |
+| **Interview Question Design** | One-time profile design + 10–15 calibrated questions + per-slot rubric + calibration session, per role profile. | £3,000 per profile (£2,000 if bought alongside another option; first profile waived with the Sprint or 3-Month Engagement) |
+| **Interviewing-as-a-Service** | Per-interview rate. Attaches to any option or standalone. Live interview, written hiring thesis within 48h, async follow-up. | £600 per interview |
+
+For our higher-touch [Fractional Technical Leader](index.md#fractional-technical-leader) line of work, retainers typically start at £20,000 / month and are scoped per engagement.
 
 ---
 
@@ -51,10 +67,11 @@ Includes:
 
 ## Related Writing
 
+- [The FDE Fork: Platform or Outcomes](https://anjor.xyz/writing/2026/05/19/the-fde-fork-platform-or-outcomes/) — The two coherent ways to run a forward deployed company, and why founders need to pick
+- [If LEGO Had Forward Deployed Engineers](https://anjor.xyz/writing/2026/05/10/if-lego-had-forward-deployed-engineers/) — What actually distinguishes an FDE from a really good consultant
 - [The FDE Manifesto: What Would Stokes Do?](https://anjor.xyz/writing/2025/11/20/the-fde-manifesto-what-would-stokes-do/) — Tactical principles that define exceptional FDEs
 - [Hiring Theses](https://anjor.xyz/writing/2024/08/02/hiring-theses/) — Why documenting hiring rationale matters
 - [The Unreasonable Effectiveness of Hiring Assholes](https://anjor.xyz/writing/2025/11/13/the-unreasonable-effectiveness-of-hiring-assholes/) — Separating conviction from toxicity
-- [Criticality and Engagement](https://anjor.xyz/writing/2024/12/17/criticality-and-engagement/) — The two must-have traits
 
 ---
 
@@ -63,5 +80,3 @@ Includes:
 **Email:** [work@platypustech.xyz](mailto:work@platypustech.xyz)
 
 **LinkedIn:** [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)
-
-**Pricing:** Scoped per engagement.
