@@ -26,7 +26,7 @@ Month-to-month, three-month minimum. Weekly working call, monthly engineering wo
 
 A fixed three-week engagement producing three written artefacts: an Operating Model Blueprint, a Hiring Playbook, and a Positioning Addendum.
 
-**Pricing:** £30,000.
+**Pricing:** £40,000.
 
 ### 3-Month Engagement
 
