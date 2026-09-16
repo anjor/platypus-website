@@ -12,10 +12,12 @@ theme:
 
 nav:
   - Home: index.md
-  - FDE Advisory: fde-advisory.md
+  - Engagements: engagements.md
+  - The Blueprint: blueprint.md
   - Team: team.md
+  - Writing: https://anjor.xyz/writing
 
-copyright: Copyright &copy; 2024 Anjor Kanekar
+copyright: Copyright &copy; 2026 Platypus Technologies Ltd
 
 extra:
   social:

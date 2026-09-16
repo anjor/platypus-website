@@ -1,103 +1,68 @@
-# We help technology companies build and run Forward Deployed Engineering functions.
+# We help companies build Forward Deployed Engineering functions that fit the problem they actually have.
 
-Forward Deployed Engineering is the model that made Palantir one of the most successful enterprise software companies in history. Most companies trying to adopt it fail because they hire wrong, structure wrong, or don't know what good looks like. We've spent 7 years inside the model and now help companies build their own.
+Forward Deployed Engineering is not a standard org chart. Depending on the product and business model, it can be a product-discovery function, a way to deliver complex customer outcomes, or simply the wrong answer.
+
+Platypus helps leaders make that choice, then put the operating model, hiring system and training around it.
 
 !!! tip "Featured in The Pragmatic Engineer"
 
-    Our work on Forward Deployed Engineering was featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers) — the definitive deep-dive on FDE organizations read by 500,000+ engineers.
-
-**Founded by Palantir veterans.** 7 years running Forward Deployed Engineering. 1,000+ technical interviews. Hands-on keyboard when it matters.
-
-We are a small practice backed by a team of senior, Palantir-trained Forward Deployed Engineers who lead day-to-day delivery and interviewing.
+    Anjor's account of how Palantir ran Forward Deployed Engineering is featured in [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers), read by more than 500,000 engineers.
 
 ---
 
-## FDE Advisory Framework
+## How we help
 
-Our framework offerings productize the work of standing up and running an FDE function. All prices exclude VAT.
+### Advisory
 
-### Advisory Retainer
+We assess an existing or proposed FDE function and help leadership define what it should own, how it works with product and sales, and how success is measured.
 
-Month-to-month, three-month minimum. Weekly working call, monthly engineering working session, monthly strategic catch-up, Slack Connect, ad-hoc review.
+The usual starting point is a two-week **FDE Readiness Assessment**. Larger changes move into a fixed operating-model sprint.
 
-**Pricing:** £12,000 / month.
+### Hiring
 
-### Operating Model + Hiring System Sprint
+We design role profiles, interview loops, exercises and calibration for FDE and technical-leadership roles. Our interview bench can also run individual interviews and return written evidence against the agreed hiring bar.
 
-A fixed three-week engagement producing three written artefacts: an Operating Model Blueprint, a Hiring Playbook, and a Positioning Addendum.
+### FDE Academy
 
-**Pricing:** £40,000.
+We design cohort programmes for consulting and technology-services firms building a forward-deployed capability. The Academy uses realistic deployment scenarios, live coaching and application in the field—not classroom training detached from the work.
 
-### 3-Month Engagement
+**[See engagements and prices →](engagements.md)**
 
-The Sprint above, then a nine-week embedded phase: weekly working calls, account shadowing, capped engineering coaching 1:1s, and a monthly leadership sync.
+---
 
-**Pricing:** £75,000.
+## Selected work
 
-### Interview Question Design
+- **[Comand AI](https://www.comand.ai/)** — designed a hiring process for mission-driven, FDE-style engineers. [Case study →](https://anjor.xyz/writing/2024/12/12/hiring-for-a-mission-driven-early-stage-startup/)
+- **[Northslope Technologies](https://www.northslopetech.com/)** — developed its hiring framework and supported product and engineering strategy.
+- **[Prodigal Tech](https://www.prodigaltech.com/)** — advising on the structure, hiring and ways of working for a growing FDE organisation.
+- **[Object Edge](https://www.objectedge.com/)** — FDE hiring and practice strategy.
 
-A one-time, per-role-profile package: profile design, 10–15 calibrated questions, per-slot rubric, and a calibration session.
+Current work also includes a custom FDE Academy for a global analytics firm. Some engagements remain confidential; we do not publish internal diagnoses or client-specific details without agreement.
 
-**Pricing:** £3,000 per profile. £2,000 per profile if bought alongside another option. First profile waived with the Sprint or the 3-Month Engagement.
+[More selected work →](case-notes/index.md)
 
-### Interviewing-as-a-Service
+---
 
-A per-interview rate that attaches to any option or stands alone. Live interview, written hiring thesis within 48 hours, and async follow-up. Delivered by our [Interview Bench](team.md#interview-bench).
+## Our perspective
 
-**Pricing:** £600 per interview.
+- **[Is FDE a Bubble?](https://anjor.xyz/writing/2026/07/08/fde-bubble/)** — the title is spreading faster than the reasoning behind it.
+- **[The FDE Fork: Platform or Outcomes](https://anjor.xyz/writing/2026/05/19/the-fde-fork-platform-or-outcomes/)** — two coherent models, and why companies need to pick deliberately.
+- **[If LEGO Had Forward Deployed Engineers](https://anjor.xyz/writing/2026/05/10/if-lego-had-forward-deployed-engineers/)** — what distinguishes an FDE from a very good consultant.
 
-**[Read more about the FDE Advisory framework →](fde-advisory.md)**
+The short version of the framework is in the **[Platypus FDE Blueprint](blueprint.md)**. The practical templates remain available in the open [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/).
 
 ---
 
 ## Fractional Technical Leader
 
-A separate, higher-touch line of work. We embed with early-stage companies as their first senior technical presence. Depending on what the company needs, that might mean:
+For a small number of early-stage companies, we act as the first senior technical presence: building an MVP, hiring the founding team, establishing ways of working and advising the founder as the company grows.
 
-- Building an MVP when there is no team yet
-- Hiring the founding technical team
-- Establishing ways of working and engineering culture
-- Being the technical sounding board for a non-technical founder
-- Managing organizational friction as the company scales
-
-This is our highest-touch engagement. We take on two to three at a time.
-
-**Recent engagements:**
-
-- A health-tech startup where we embedded as the first senior technical presence — hiring the founding team, establishing ways of working, and acting as the technical sounding board for a non-technical founder.
-- An early-stage company where we owned the technical build, developing the MVP while the founder focused on commercial traction.
-
-**Pricing:** Retainers typically start at £20,000 / month. Scoped per engagement.
+Retainers start at **£20,000 a month** and are scoped individually.
 
 ---
 
-## Clients
+## Get in touch
 
-- **[Comand AI](https://www.comand.ai/)** — Designed hiring process for mission-driven FDE-style engineers. [Case study →](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/)
-- **[Northslope Technologies](https://www.northslopetech.com/)** — Built bespoke hiring framework defining cultural traits vs role competencies. [Case study →](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/)
-- **[Prodigal Tech](https://www.prodigaltech.com/)** — Building FDE organization from the ground up.
-- **[Object Edge](https://www.objectedge.com/)** — Building Palantir services practice with FDE hiring and strategy.
-- Plus confidential Fractional Technical Leader engagements across health-tech and early-stage product companies.
+**Email:** [work@platypustech.xyz](mailto:work@platypustech.xyz)
 
----
-
-## Recent Writing
-
-- [The FDE Fork: Platform or Outcomes](https://anjor.xyz/writing/2026/05/19/the-fde-fork-platform-or-outcomes/) — The two coherent ways to run a forward deployed company, and why founders need to pick
-- [If LEGO Had Forward Deployed Engineers](https://anjor.xyz/writing/2026/05/10/if-lego-had-forward-deployed-engineers/) — What actually distinguishes an FDE from a really good consultant
-- [The Unreasonable Effectiveness of Hiring Assholes](https://anjor.xyz/writing/2025/11/13/the-unreasonable-effectiveness-of-hiring-assholes/) — Why conviction and ego are separate traits
-- [Comand AI: A Hiring Case Study](https://anjor.xyz/writing/2024/09/28/comand-ai-a-hiring-case-study/) — Designing hiring for mission-driven engineers
-- [Building a Hiring Process for Northslope](https://anjor.xyz/writing/2024/11/20/case-study-building-a-hiring-process-for-northslope/) — Cultural traits vs role competencies
-
-[More on anjor.xyz/writing →](https://anjor.xyz/writing)
-
----
-
-## Get in Touch
-
-| | |
-|---|---|
-| **Email** | [work@platypustech.xyz](mailto:work@platypustech.xyz) |
-| **LinkedIn** | [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar) |
-
-**Not ready to talk yet?** Check out our [FDE Advisory Materials](https://anjor.github.io/fde-advisory-materials/) or browse [recent writing](https://anjor.xyz/writing).
+**LinkedIn:** [linkedin.com/in/anjor-kanekar](https://linkedin.com/in/anjor-kanekar)
