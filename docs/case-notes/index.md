@@ -2,6 +2,14 @@
 
 We keep public descriptions short. They show the shape of the work without publishing a client's internal diagnosis.
 
+## Frontier Health
+
+Ongoing advice on product, engineering, hiring and ways of working as the team behind Juno grows.
+
+## Confido Health
+
+An FDE operating-model discovery spanning the field, product, platform and commercial teams.
+
 ## Prodigal Tech
 
 Ongoing advice on the structure, hiring and operating practices of a growing FDE organisation.

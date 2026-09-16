@@ -15,7 +15,7 @@ We review the current plan and evidence, speak to the relevant leaders and pract
 - our recommendation; and
 - a practical 90-day plan.
 
-**Price: £10,000.**
+**Price: £15,000.**
 
 ### Operating Model + Hiring System Sprint
 

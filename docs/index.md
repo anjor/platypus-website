@@ -33,6 +33,8 @@ We design cohort programmes for consulting and technology-services firms buildin
 ## Selected work
 
 - **[Comand AI](https://www.comand.ai/)** — designed a hiring process for mission-driven, FDE-style engineers. [Case study →](https://anjor.xyz/writing/2024/12/12/hiring-for-a-mission-driven-early-stage-startup/)
+- **[Frontier Health](https://frontierhealth.ai/)** — ongoing advice on product, engineering, hiring and ways of working as the team grows.
+- **[Confido Health](https://www.confido.health/)** — an FDE operating-model discovery spanning its field, product, platform and commercial teams.
 - **[Northslope Technologies](https://www.northslopetech.com/)** — developed its hiring framework and supported product and engineering strategy.
 - **[Prodigal Tech](https://www.prodigaltech.com/)** — advising on the structure, hiring and ways of working for a growing FDE organisation.
 - **[Object Edge](https://www.objectedge.com/)** — FDE hiring and practice strategy.
