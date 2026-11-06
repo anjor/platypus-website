@@ -1,6 +1,6 @@
 site_name: Platypus Technologies
 site_url: https://platypustech.xyz/
-site_description: We help technology companies build and run Forward Deployed Engineering functions.
+site_description: We advise technology companies on how to run Forward Deployed Engineering, and assess and train their FDEs.
 
 theme:
   name: material
