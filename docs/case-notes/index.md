@@ -24,7 +24,7 @@ An interview process for mission-driven engineers, covering the role profile, in
 
 ## Global analytics firm
 
-Designing a custom FDE Academy for an initial cohort, combining realistic client scenarios, live coaching and application in the field.
+Designing a custom FDE training programme for an initial cohort, combining realistic client scenarios, live coaching and application in the field.
 
 ## Object Edge
 

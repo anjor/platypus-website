@@ -1,6 +1,6 @@
 # Engagements
 
-Platypus has three lines of FDE work: advisory, interview design and the Academy. All prices are in GBP and exclude VAT.
+Platypus has three lines of FDE work: advisory, interview design and The FDE Programme. All prices are in GBP and exclude VAT.
 
 ## Advisory
 
@@ -39,13 +39,24 @@ If you already know the role, we can design how you interview for it, without a 
 
 We don't source or place candidates.
 
-## FDE Academy
+## The FDE Programme
 
-A custom cohort programme for consulting, systems-integration and technology-services firms developing a forward-deployed capability.
+An eight-week, remote programme that gets new FDEs ready to lead deployments. It is not a course. The AI labs teach the tools. The hard part is the craft of making a deployment work, and that grows through feedback on real work from people who have done it.
 
-The scope can include programme design, realistic client-deployment scenarios, facilitator materials, live coaching and follow-up once participants apply the work in the field. The final shape depends on the cohort size, number of in-person days and length of the field phase.
+- **A two-day exercise.** Each pod gets a realistic client, not a specification. We play the client, and we know the answer, so feedback is sharp and every FDE faces the same test.
+- **Six weeks of coaching on real work.** Each deployment team brings its live deployment to a coach for an hour a week. The coach asks who makes the call, which decision is being modelled and what changed for the user. Then they set one thing for next week.
+- **A written verdict on each FDE.** In week 8, each FDE defends a fresh case to a panel. The verdict is ready to lead a deployment, ready with support, or not yet, with the evidence behind it. A short check follows 90 days later.
 
-**Price: from £45,000 per cohort, plus travel.**
+You also get a note on what in your company is blocking your FDEs, and the exercise, rubric and coach guide, licensed for internal use.
+
+| | Team programme | Cohort programme |
+|:--|:--|:--|
+| For | AI startups with new FDEs on live deployments and no senior FDE to coach them | Services firms and deployment companies building an FDE practice |
+| Size | Up to about four FDEs | Up to about eight FDEs |
+| Coaches | Ours | Your senior people, calibrated by us, or ours |
+| Price | From £48,500 | From £62,000 |
+
+Add-ons include a case built from one of your own solved engagements, coaching beyond week 7 by the month, and moderation of repeat cohorts you run yourselves. In-person days are available, with travel at cost.
 
 ## How we work
 

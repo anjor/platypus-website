@@ -24,9 +24,9 @@ The usual starting point is a two-week **FDE Readiness Assessment**. Larger chan
 
 We design how you interview FDEs and technical leaders: role profiles, interview loops, exercises and calibration. Our interviewers can also run interviews for you and write up the evidence against your bar. We don't source or place candidates.
 
-### FDE Academy
+### The FDE Programme
 
-We design cohort programmes for consulting and technology-services firms building a forward-deployed capability. The Academy uses realistic deployment scenarios, live coaching and application in the field—not classroom training detached from the work.
+An eight-week, remote programme that gets new FDEs ready to lead deployments. A two-day exercise on a realistic client case, six weeks of coaching on their own live work, and a written verdict on each FDE. There is a team programme for AI startups and a cohort programme for services firms. It is not a course.
 
 **[See engagements and prices →](engagements.md)**
 
@@ -41,7 +41,7 @@ We design cohort programmes for consulting and technology-services firms buildin
 - **[Prodigal Tech](https://www.prodigaltech.com/)** — advised on the structure, hiring practice and ways of working of a growing FDE organisation.
 - **[Object Edge](https://www.objectedge.com/)** — strategy for its FDE practice, including how it interviews FDEs.
 
-Current work also includes a custom FDE Academy for a global analytics firm. Some engagements remain confidential; we do not publish internal diagnoses or client-specific details without agreement.
+Current work also includes a custom FDE training programme for a global analytics firm. Some engagements remain confidential; we do not publish internal diagnoses or client-specific details without agreement.
 
 [More selected work →](case-notes/index.md)
 
