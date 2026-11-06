@@ -14,6 +14,10 @@ Platypus helps leaders make that choice. Then we help them set up the operating 
 
 ## How we help
 
+### The FDE Programme
+
+An eight-week, remote programme that gets new FDEs ready to lead deployments. A two-day exercise on a realistic client case, six weeks of coaching on their own live work, and a written verdict on each FDE. There is a team programme for AI startups and a cohort programme for services firms. It is not a course.
+
 ### Advisory
 
 We assess an existing or proposed FDE function and help leadership define what it should own, how it works with product and sales, and how success is measured.
@@ -23,10 +27,6 @@ The usual starting point is a two-week **FDE Readiness Assessment**. Larger chan
 ### Interview design
 
 We design how you interview FDEs and technical leaders: role profiles, interview loops, exercises and calibration. Our interviewers can also run interviews for you and write up the evidence against your bar. We don't source or place candidates.
-
-### The FDE Programme
-
-An eight-week, remote programme that gets new FDEs ready to lead deployments. A two-day exercise on a realistic client case, six weeks of coaching on their own live work, and a written verdict on each FDE. There is a team programme for AI startups and a cohort programme for services firms. It is not a course.
 
 **[See engagements and prices →](engagements.md)**
 
