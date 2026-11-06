@@ -57,14 +57,6 @@ The short version of the framework is in the **[Platypus FDE Blueprint](blueprin
 
 ---
 
-## Fractional Technical Leader
-
-For a small number of early-stage companies, we act as the first senior technical presence: building an MVP, setting up how the first engineers are hired, establishing ways of working and advising the founder as the company grows.
-
-Retainers start at **£20,000 a month** and are scoped individually.
-
----
-
 ## Get in touch
 
 **Email:** [work@platypustech.xyz](mailto:work@platypustech.xyz)
