@@ -17,6 +17,12 @@ nav:
   - Team: team.md
   - Writing: https://anjor.xyz/writing
 
+# Reached by links rather than the menu: case notes from the homepage and
+# anjor.xyz, and fde-advisory.md so old /fde-advisory/ links still work.
+not_in_nav: |
+  /fde-advisory.md
+  /case-notes/index.md
+
 copyright: Copyright &copy; 2026 Platypus Technologies Ltd
 
 extra:
