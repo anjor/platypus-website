@@ -4,7 +4,7 @@ We keep public descriptions short. They show the shape of the work without publi
 
 ## Frontier Health
 
-Ongoing advice on product, engineering, hiring and ways of working as the team behind Juno grows.
+Ongoing advice on product, engineering, hiring practice and ways of working as the team behind Juno grows.
 
 ## Confido Health
 
@@ -12,23 +12,23 @@ An FDE operating-model discovery spanning the field, product, platform and comme
 
 ## Prodigal Tech
 
-Ongoing advice on the structure, hiring and operating practices of a growing FDE organisation.
+Advice on the structure, hiring practice and ways of working of a growing FDE organisation.
 
 ## Northslope Technologies
 
-Hiring-framework design and ongoing product and engineering strategy for an FDE-led technology company.
+Interview-framework design and ongoing product and engineering strategy for an FDE-led technology company.
 
 ## Comand AI
 
-A hiring process for mission-driven engineers, including the profile, interview structure and decision process. [Read the published case study.](https://anjor.xyz/writing/2024/12/12/hiring-for-a-mission-driven-early-stage-startup/)
+An interview process for mission-driven engineers, covering the role profile, interview structure and how decisions are made. [Read the published case study.](https://anjor.xyz/writing/2024/12/12/hiring-for-a-mission-driven-early-stage-startup/)
 
 ## Global analytics firm
 
-Designing a custom FDE Academy for an initial cohort, combining realistic client scenarios, live coaching and application in the field.
+Designing a custom FDE training programme for an initial cohort, combining realistic client scenarios, live coaching and application in the field.
 
 ## Object Edge
 
-FDE hiring and practice strategy for a technology-services business.
+Strategy for the FDE practice of a technology-services business, including how it interviews FDEs.
 
 ---
 
