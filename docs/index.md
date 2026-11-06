@@ -1,4 +1,6 @@
-# We help companies build Forward Deployed Engineering functions that fit the problem they actually have.
+# Making Forward Deployed Engineering repeatable.
+
+We advise companies on how to run Forward Deployed Engineering, and we assess and train their FDEs.
 
 Forward Deployed Engineering is not a standard org chart. Depending on the product and business model, it can be a product-discovery function, a way to deliver complex customer outcomes, or simply the wrong answer.
 
@@ -20,7 +22,7 @@ The usual starting point is a two-week **FDE Readiness Assessment**. Larger chan
 
 ### Hiring
 
-We design role profiles, interview loops, exercises and calibration for FDE and technical-leadership roles. Our interview bench can also run individual interviews and return written evidence against the agreed hiring bar.
+We design role profiles, interview loops, exercises and calibration for FDE and technical-leadership roles. Our interview bench can also run individual interviews and return written evidence against the agreed hiring bar. We don't source or place candidates.
 
 ### FDE Academy
 

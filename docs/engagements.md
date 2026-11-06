@@ -37,6 +37,8 @@ For companies that already know the role they need, we can design the hiring pro
 
 **Interviewing-as-a-Service: £600 per interview.** A calibrated interviewer runs the agreed slot and returns written evidence within 48 hours.
 
+We don't source or place candidates.
+
 ## FDE Academy
 
 A custom cohort programme for consulting, systems-integration and technology-services firms developing a forward-deployed capability.
