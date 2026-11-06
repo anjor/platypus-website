@@ -58,12 +58,6 @@ You also get a note on what in your company is blocking your FDEs, and the exerc
 
 Add-ons include a case built from one of your own solved engagements, coaching beyond week 7 by the month, and moderation of repeat cohorts you run yourselves. In-person days are available, with travel at cost.
 
-## How we work
-
-- **Fixed scope.** Each engagement has a defined outcome, written deliverables and a clear end date.
-- **Practical output.** We leave behind operating documents, interview materials or programme materials, not just workshop notes.
-- **Discretion.** We do not publish client-specific findings without agreement.
-
 ---
 
 ## Get in touch
