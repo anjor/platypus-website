@@ -1,6 +1,6 @@
 # Team
 
-Platypus is a small practice led by Anjor Kanekar, with Piotr Kraus as delivery lead and experienced interviewers supporting engagements when needed.
+Platypus is a small practice led by Anjor Kanekar, with Piotr Kraus as delivery lead and senior engineers who run interviews on engagements when needed.
 
 ## Anjor Kanekar
 
@@ -24,8 +24,8 @@ Piotr spent ten years at Palantir as a Forward Deployed Engineer, leading comple
 
 **LinkedIn:** [linkedin.com/in/piotrkraus](https://www.linkedin.com/in/piotrkraus)
 
-## Interviewing bench
+## Interviewers
 
 When needed, engagements draw on a small network of senior engineers with substantial forward-deployed and technical-interviewing experience. Platypus remains accountable for the work and the quality of every deliverable.
 
-Interested in working with us? [Get in touch](mailto:work@platypustech.xyz).
+Want help with your FDE function? [Get in touch](mailto:work@platypustech.xyz).

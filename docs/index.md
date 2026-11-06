@@ -4,7 +4,7 @@ We advise companies on how to run Forward Deployed Engineering, and we assess an
 
 Forward Deployed Engineering is not a standard org chart. Depending on the product and business model, it can be a product-discovery function, a way to deliver complex customer outcomes, or simply the wrong answer.
 
-Platypus helps leaders make that choice, then put the operating model, hiring system and training around it.
+Platypus helps leaders make that choice. Then we help them set up the operating model, interview process and training to match.
 
 !!! tip "Featured in The Pragmatic Engineer"
 
@@ -20,9 +20,9 @@ We assess an existing or proposed FDE function and help leadership define what i
 
 The usual starting point is a two-week **FDE Readiness Assessment**. Larger changes move into a fixed operating-model sprint.
 
-### Hiring
+### Interview design
 
-We design role profiles, interview loops, exercises and calibration for FDE and technical-leadership roles. Our interview bench can also run individual interviews and return written evidence against the agreed hiring bar. We don't source or place candidates.
+We design how you interview FDEs and technical leaders: role profiles, interview loops, exercises and calibration. Our interviewers can also run interviews for you and write up the evidence against your bar. We don't source or place candidates.
 
 ### FDE Academy
 
@@ -34,12 +34,12 @@ We design cohort programmes for consulting and technology-services firms buildin
 
 ## Selected work
 
-- **[Comand AI](https://www.comand.ai/)** — designed a hiring process for mission-driven, FDE-style engineers. [Case study →](https://anjor.xyz/writing/2024/12/12/hiring-for-a-mission-driven-early-stage-startup/)
-- **[Frontier Health](https://frontierhealth.ai/)** — ongoing advice on product, engineering, hiring and ways of working as the team grows.
+- **[Comand AI](https://www.comand.ai/)** — designed how it interviews and assesses mission-driven, FDE-style engineers. [Case study →](https://anjor.xyz/writing/2024/12/12/hiring-for-a-mission-driven-early-stage-startup/)
+- **[Frontier Health](https://frontierhealth.ai/)** — ongoing advice on product, engineering, hiring practice and ways of working as the team grows.
 - **[Confido Health](https://www.confido.health/)** — an FDE operating-model discovery spanning its field, product, platform and commercial teams.
-- **[Northslope Technologies](https://www.northslopetech.com/)** — developed its hiring framework and supported product and engineering strategy.
-- **[Prodigal Tech](https://www.prodigaltech.com/)** — advising on the structure, hiring and ways of working for a growing FDE organisation.
-- **[Object Edge](https://www.objectedge.com/)** — FDE hiring and practice strategy.
+- **[Northslope Technologies](https://www.northslopetech.com/)** — built its interview framework and supported product and engineering strategy.
+- **[Prodigal Tech](https://www.prodigaltech.com/)** — advised on the structure, hiring practice and ways of working of a growing FDE organisation.
+- **[Object Edge](https://www.objectedge.com/)** — strategy for its FDE practice, including how it interviews FDEs.
 
 Current work also includes a custom FDE Academy for a global analytics firm. Some engagements remain confidential; we do not publish internal diagnoses or client-specific details without agreement.
 
@@ -59,7 +59,7 @@ The short version of the framework is in the **[Platypus FDE Blueprint](blueprin
 
 ## Fractional Technical Leader
 
-For a small number of early-stage companies, we act as the first senior technical presence: building an MVP, hiring the founding team, establishing ways of working and advising the founder as the company grows.
+For a small number of early-stage companies, we act as the first senior technical presence: building an MVP, setting up how the first engineers are hired, establishing ways of working and advising the founder as the company grows.
 
 Retainers start at **£20,000 a month** and are scoped individually.
 

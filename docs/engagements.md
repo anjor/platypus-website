@@ -1,6 +1,6 @@
 # Engagements
 
-Platypus has three lines of FDE work: advisory, hiring and the Academy. All prices are in GBP and exclude VAT.
+Platypus has three lines of FDE work: advisory, interview design and the Academy. All prices are in GBP and exclude VAT.
 
 ## Advisory
 
@@ -17,25 +17,25 @@ We review the current plan and evidence, speak to the relevant leaders and pract
 
 **Price: £15,000.**
 
-### Operating Model + Hiring System Sprint
+### Operating Model + Interview System Sprint
 
 A fixed three-week engagement for a company ready to design or reset the function. It produces:
 
 - an operating model covering team shape, ownership, interfaces and measurement;
 - a hiring playbook with role profiles, interview design and calibration; and
-- clear positioning for candidates, customers and the wider company.
+- a clear description of the role for candidates, customers and the wider company.
 
 **Price: £40,000.**
 
 Longer-term implementation support is scoped after the initial engagement. It is not sold as a generic retainer before we understand the company.
 
-## Hiring
+## Interview design
 
-For companies that already know the role they need, we can design the hiring process without a broader operating-model engagement.
+If you already know the role, we can design how you interview for it, without a broader operating-model engagement.
 
 **Interview process design: from £4,000 per role.** This includes the traits, interview structure, calibrated questions and a working session with the hiring team.
 
-**Interviewing-as-a-Service: £600 per interview.** A calibrated interviewer runs the agreed slot and returns written evidence within 48 hours.
+**Interviews: £600 each.** One of our calibrated interviewers runs the interview and sends written evidence within 48 hours.
 
 We don't source or place candidates.
 
@@ -50,7 +50,7 @@ The scope can include programme design, realistic client-deployment scenarios, f
 ## How we work
 
 - **Fixed scope.** Each engagement has a defined outcome, written deliverables and a clear end date.
-- **Practical output.** We leave behind operating documents, hiring instruments or programme materials—not just workshop notes.
+- **Practical output.** We leave behind operating documents, interview materials or programme materials, not just workshop notes.
 - **Discretion.** We do not publish client-specific findings without agreement.
 
 ---
